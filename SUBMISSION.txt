@@ -1,14 +1,14 @@
-Status : INCOMPLETE - at least one check did not pass
+Status : COMPLETE - all checks passed
 Points : 40 / 40  (from check.py; counts only when the Git and GitHub checks pass)
 
 CS 1430 Assignment 2: The Cost of College
-GitHub user : unknown
-Repository  : unknown
-Commit      : unknown
-Message     : 
-Author      : 
-Committed   : 
-Checked     : 2026-10-26 19:03:00 Central Daylight Time
+GitHub user : EthanWade3073
+Repository  : https://github.com/EthanWade3073/Assignment2
+Commit      : 3b2802ac753c6e390e5fb045653ff8309e14c633
+Message     : Added functions for various costs. Added option 6 "How many games?" to menu.
+Author      : Ethan Wade <wadeet@uwplatt.edu>
+Committed   : 2026-10-26T19:03:46-05:00
+Checked     : 2026-10-26 19:04:04 Central Daylight Time
 Python      : 3.14.7
 
 ================================================================
@@ -36,9 +36,10 @@ CHECK RESULTS
 --- Git and GitHub (required for your points to count) ---
 [PASS] Git is installed
 [PASS] This folder is a Git repository
-[FAIL] You have committed your own work
-   > So far there is only the template's first commit.
-   > In Source Control, type a message and click Commit.
+[PASS] You have committed your own work
+[PASS] Your latest changes are committed
+[PASS] Your repo is connected to GitHub
+[PASS] Your commit is pushed to GitHub
 
 POINTS FROM check.py: 40 / 40
 
